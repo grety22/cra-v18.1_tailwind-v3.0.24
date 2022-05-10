@@ -1,4 +1,4 @@
-# Demo: https://grety22.github.io/cra18-tailwind3/
+# Demo: https://grety22.github.io/cra-v18.1_tailwind-v3.0.24/
 # Install latest version of create-react-app
 
 npx create-react-app my-app
