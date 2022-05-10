@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cra-v18.1_tailwind-v3.0.24/static/css/main.5c7b7b09.css",
+    "main.js": "/cra-v18.1_tailwind-v3.0.24/static/js/main.ef6ced5d.js",
+    "index.html": "/cra-v18.1_tailwind-v3.0.24/index.html",
+    "main.5c7b7b09.css.map": "/cra-v18.1_tailwind-v3.0.24/static/css/main.5c7b7b09.css.map",
+    "main.ef6ced5d.js.map": "/cra-v18.1_tailwind-v3.0.24/static/js/main.ef6ced5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c7b7b09.css",
+    "static/js/main.ef6ced5d.js"
+  ]
+}
