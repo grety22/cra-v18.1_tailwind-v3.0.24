@@ -34,3 +34,5 @@ module.exports = {
 # Run the app
 
 npm run start
+
+# gh-pages added to deploy
